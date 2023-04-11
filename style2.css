@@ -1,0 +1,20 @@
+body{
+    background-image: url("Indigo.png");
+    background-repeat: no-repeat;
+    background-position: 50% 10px;
+    padding-left:33%;
+    font: 1em sans-serif;
+    color: white;
+}
+
+.increment-btn{
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 25px;
+    background-color: white;
+}
+
+.Previous{
+    font-weight: bold;
+    padding-top: 10px ;
+}
