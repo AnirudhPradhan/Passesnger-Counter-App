@@ -1,2 +1,2 @@
-# Footfall counting website
-A fantastic counter app using HTML, CSS and JS
+# Passenger counting website
+A fantastic counter page using HTML, CSS and JS
